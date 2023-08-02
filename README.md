@@ -2,7 +2,7 @@
 
 🫴🏻 20_years_old <br/>
 🫴🏻 borned_in_brazil <br/>
-🫴🏻 studying_development_for_about_3 years <br/>
+🫴🏻 studying_self_taught_for_about_3 years <br/>
 🫴🏻 bachelors_degree\_Information\_Tecnology\_in\_[Univesp](https://www.linkedin.com/company/univesp/)
 
 ## 📖 my_knowledge
