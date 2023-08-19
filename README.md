@@ -1,11 +1,11 @@
-# 👽 hello_world
+# hello_world
 
-🫴🏻 20_years_old <br/>
-🫴🏻 borned_in_brazil <br/>
-🫴🏻 studying_for_about_3 years <br/>
-🫴🏻 bachelors_degree\_Information\_Tecnology\_in\_[Univesp](https://www.linkedin.com/company/univesp/)
+\> 20 years old <br/>
+\> Borned and living in Brazil <br/>
+\> Studying for about 3 years <br/>
+\> Bachelors degree "Information Tecnology" in [Univesp](https://www.linkedin.com/company/univesp/)
 
-## 📖 my_knowledge
+## 📖 My knowledges
 
 <div align="center">
   <br/>
